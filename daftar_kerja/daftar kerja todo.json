@@ -1,0 +1,17 @@
+[
+    {
+       "task": "saya mau pergi ke pasar",
+       "complete": true,
+       "tag": [
+          "aku",
+          "ga",
+          "jadi",
+          "makan"
+       ]
+    },
+    {
+       "task": "saya mau masak",
+       "complete": false,
+       "tag": []
+    }
+ ]
