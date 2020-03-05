@@ -1,0 +1,30 @@
+[
+   {
+      "string": "tahir",
+      "integer": "321902",
+      "float": "19.04",
+      "date": "2020-02-04",
+      "boolean": "true"
+   },
+   {
+      "string": "owen",
+      "integer": "041000",
+      "float": "20.20",
+      "date": "2020-02-14",
+      "boolean": "false"
+   },
+   {
+      "string": "irma yusuf",
+      "integer": "321902",
+      "float": "40.40",
+      "date": "",
+      "boolean": "true"
+   },
+   {
+      "string": "awowawi",
+      "integer": "321456",
+      "float": "20.20",
+      "date": "2000-02-10",
+      "boolean": "false"
+   }
+]
